@@ -1,0 +1,4 @@
+interface:
+  display_name: "公众号文章写作与优化"
+  short_description: "将作者主线、判断与感想转化为经首次阅读审查的公众号写作优化闭环"
+  default_prompt: "Use $wechat-article-writer to turn my topic, personal judgment, and feelings into a reader-tested WeChat article."
